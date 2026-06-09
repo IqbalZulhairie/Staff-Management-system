@@ -1,0 +1,1 @@
+<h1>This Is Test View with msg <?php echo e($hello); ?></h1><?php /**PATH C:\laragon\www\staff-app\resources\views//test/my_test_view.blade.php ENDPATH**/ ?>

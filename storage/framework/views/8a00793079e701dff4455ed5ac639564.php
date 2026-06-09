@@ -1,0 +1,1 @@
+</div> <?php /**PATH C:\laragon\www\staff-app\resources\views/layout/footer.blade.php ENDPATH**/ ?>
